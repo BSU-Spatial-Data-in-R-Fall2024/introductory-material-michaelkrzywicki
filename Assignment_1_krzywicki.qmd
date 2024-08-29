@@ -1,0 +1,17 @@
+---
+title: "Assignment_1_Krzywicki"
+format: html
+---
+
+1) How does geographic analysis fit into your goals for your research? Given our discussion of the aims and limitations of geographic analysis, are there particular issues that you would like to know more about or guard against?
+
+2) What are the primary components that describe spatial data?
+
+3) What is the coordinate reference system and why is it important
+
+The coordinate reference system describes the different types of information that inform a map's projection. It includes thing like the datum, ellipsoid, units, and other types of information. Not every CRS uses all these different parameters. 
+
+5) Find two maps of the same area in different projections? How does the projection affect your perception of the data being displayed?
+
+6) Read in the cejst.shp file in the assignment01 folder. How many attributes describe each object? How many unique geometries are there? What is the coordinate reference system?
+
